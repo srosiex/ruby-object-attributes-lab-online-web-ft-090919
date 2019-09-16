@@ -8,5 +8,3 @@ class Dog
 # end
 fido.instance_variable_set(:@name, "Fido")
 end
-
-

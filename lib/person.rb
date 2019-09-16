@@ -5,10 +5,10 @@ end
 def name
   @name
 end
-def jobs=(job)
+def job=(job)
   @job = job
 end
-def jobs
+def job
   @job
 end
 end
